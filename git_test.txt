@@ -1,3 +1,6 @@
 i like this tools£»
 
 i love china£»
+
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
